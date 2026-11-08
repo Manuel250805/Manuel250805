@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Estudios-DAM_y_DAW-1f6feb?style=for-the-badge" alt="Estudios">
   <img src="https://img.shields.io/badge/Hago-Desarollo Web y Multiplataforma-2ea44f?style=for-the-badge" alt="Hago">
   <img src="https://img.shields.io/badge/Certificado-Cisco_Python_e_IA-f59e0b?style=for-the-badge" alt="Certificado">
-  <img src="https://img.shields.io/badge/Busco-Crecer como desarrolador-8957e5?style=for-the-badge" alt="Busco">
+  <img src="https://img.shields.io/badge/Busco-Crecer como desarrollador-8957e5?style=for-the-badge" alt="Busco">
 </p>
 
 Soy Manuel, técnico superior en Desarrollo de Aplicaciones Multiplataforma y actualmente estudio Desarrollo de Aplicaciones Web.
@@ -20,7 +20,7 @@ Ahora mismo busco mi primera oportunidad como desarrollador junior, para seguir 
 ## 🤝 Contacto
 
 <p align="center">
-  <a href="www.linkedin.com/in/manuel-pavon-buendia-3233a12b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://www.linkedin.com/in/manuel-pavon-buendia-3233a12b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:pavonbuendiamanuel2505@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"></a>
 </p>
 
