@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudios-DAM_y_DAW-1f6feb?style=for-the-badge" alt="Estudios">
-  <img src="https://img.shields.io/badge/Hago-Web_Android_y_Odoo-2ea44f?style=for-the-badge" alt="Hago">
+  <img src="https://img.shields.io/badge/Hago-Desarollo Web y Multiplataforma-2ea44f?style=for-the-badge" alt="Hago">
   <img src="https://img.shields.io/badge/Certificado-Cisco_Python_e_IA-f59e0b?style=for-the-badge" alt="Certificado">
   <img src="https://img.shields.io/badge/Busco-Primer_empleo_junior-8957e5?style=for-the-badge" alt="Busco">
 </p>
