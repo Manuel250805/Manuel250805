@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Estudios-DAM_y_DAW-1f6feb?style=for-the-badge" alt="Estudios">
   <img src="https://img.shields.io/badge/Hago-Desarollo Web y Multiplataforma-2ea44f?style=for-the-badge" alt="Hago">
   <img src="https://img.shields.io/badge/Certificado-Cisco_Python_e_IA-f59e0b?style=for-the-badge" alt="Certificado">
-  <img src="https://img.shields.io/badge/Busco-Primer_empleo_junior-8957e5?style=for-the-badge" alt="Busco">
+  <img src="https://img.shields.io/badge/Busco-Crecer como desarrolador-8957e5?style=for-the-badge" alt="Busco">
 </p>
 
 Soy Manuel, técnico superior en Desarrollo de Aplicaciones Multiplataforma y actualmente estudio Desarrollo de Aplicaciones Web.
